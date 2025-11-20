@@ -1,5 +1,8 @@
 # MITM to Markdown
 
+[![Run Script](https://simple-script.com/api/badge/mitmproxy-to-markdown)](https://simple-script.com/app/mitmproxy-to-markdown)
+
+
 Convert mitmdump flow files to well-formatted markdown documentation with example requests.
 
 ## Description
